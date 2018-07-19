@@ -9,3 +9,6 @@
 ##SelectSort.c##
 选择排序法
 
+##MergeSort.c##
+归并排序法
+
