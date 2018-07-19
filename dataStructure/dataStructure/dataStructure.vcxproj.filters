@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Sort\MergeSort.c">
+    <ClCompile Include="..\..\Sort\QuickSort.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

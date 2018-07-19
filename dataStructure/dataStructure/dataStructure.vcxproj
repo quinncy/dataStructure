@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Sort\MergeSort.c" />
+    <ClCompile Include="..\..\Sort\QuickSort.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{3AE5CB19-BD35-428B-BD48-CB9AF493E4A1}</ProjectGuid>

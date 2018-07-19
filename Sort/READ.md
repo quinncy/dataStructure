@@ -12,3 +12,8 @@
 ##MergeSort.c##
 归并排序法
 
+##ShellSort.c##
+希尔排序法
+
+##QuickSort.c##
+快速排序法
