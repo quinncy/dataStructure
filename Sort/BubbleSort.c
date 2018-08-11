@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
-Ä¬ÈÏÉıĞòÅÅĞò
+Ã„Â¬ÃˆÃÃ‰Ã½ÃÃ²Ã…Ã…ÃÃ²
 */
 
 void BubbleSort(int *a, int number)
@@ -16,7 +16,7 @@ void BubbleSort(int *a, int number)
 			{
 				temp = a[i];
 				a[i] = a[i+1];
-				a[i+1] = a[i];
+				a[i+1] = temp;
 			}
 		}
 	}
